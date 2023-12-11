@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Paulo H. M. Oliveira🤙
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-henrique-marques-oliveira-b908172a4)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-marques-oliveira-b908172a4/)
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Parlito&show_icons=true&theme=dark)
 
