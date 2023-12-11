@@ -2,6 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-henrique-marques-oliveira-b908172a4)
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=Parlito&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parlito&hide_progress=true)
 
 ## Minhas principais tecnologias💻
