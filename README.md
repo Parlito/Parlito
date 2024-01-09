@@ -17,4 +17,4 @@
 
 "tudo que não é eterno, é eternamente inútil" C. S. Lewis
 
-## Email: contatopauloeditor@gmail.com
+## Email: contatopaulodevv@gmail.com
